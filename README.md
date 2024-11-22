@@ -1,9 +1,13 @@
 중앙대학교 예술공학부 24학번
 
 Club
-COANT(football), Dolphine(swimming), King Pin(bowling), YESTHETIC(health)
+
+
+-COANT(football), Dolphine(swimming), King Pin(bowling), YESTHETIC(health)
 
 INTEREST
+
+
 -3D Modeling, Animation movie, Music
 
 Most used apps
