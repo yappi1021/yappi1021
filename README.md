@@ -3,7 +3,7 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyappi1021%2Fyappi1021%2Fblob%2Fmain%2FREADME.md&count_bg=%239CDFF9&title_bg=%23C981E9&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 	
   </div>
-중앙대학교 예술공학부 24학번
+CAU A&T 24
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________
 Club
